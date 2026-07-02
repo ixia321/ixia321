@@ -35,5 +35,5 @@
 <br>
 
 <p align="center">
-  <samp><i>made with care</i></samp>
+  <samp><i>made with white monster</i></samp>
 </p>
