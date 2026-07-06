@@ -15,7 +15,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/python-fdf2f8?style=flat&logo=python&logoColor=d4a5a5" />
   <img src="https://img.shields.io/badge/pytorch-f5e6e8?style=flat&logo=pytorch&logoColor=d4a5a5" />
-  <img src="https://img.shields.io/badge/react-fdf2f8?style=flat&logo=react&logoColor=d4a5a5" />
   <img src="https://img.shields.io/badge/html/css-f5e6e8?style=flat&logo=html5&logoColor=d4a5a5" />
   <img src="https://img.shields.io/badge/git-fdf2f8?style=flat&logo=git&logoColor=d4a5a5" />
 </p>
